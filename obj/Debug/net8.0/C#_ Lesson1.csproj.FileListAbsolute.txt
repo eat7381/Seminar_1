@@ -1,0 +1,4 @@
+/Users/talashoveugene/Desktop/C#_ Lesson1/obj/Debug/net8.0/C#_ Lesson1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talashoveugene/Desktop/C#_ Lesson1/obj/Debug/net8.0/C#_ Lesson1.AssemblyInfoInputs.cache
+/Users/talashoveugene/Desktop/C#_ Lesson1/obj/Debug/net8.0/C#_ Lesson1.AssemblyInfo.cs
+/Users/talashoveugene/Desktop/C#_ Lesson1/obj/Debug/net8.0/C#_ Lesson1.csproj.CoreCompileInputs.cache

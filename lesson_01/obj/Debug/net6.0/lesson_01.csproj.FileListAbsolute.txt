@@ -1,0 +1,14 @@
+/Users/talashoveugene/Desktop/C#_ Lesson1/lesson_01/bin/Debug/net6.0/lesson_01
+/Users/talashoveugene/Desktop/C#_ Lesson1/lesson_01/bin/Debug/net6.0/lesson_01.deps.json
+/Users/talashoveugene/Desktop/C#_ Lesson1/lesson_01/bin/Debug/net6.0/lesson_01.runtimeconfig.json
+/Users/talashoveugene/Desktop/C#_ Lesson1/lesson_01/bin/Debug/net6.0/lesson_01.dll
+/Users/talashoveugene/Desktop/C#_ Lesson1/lesson_01/bin/Debug/net6.0/lesson_01.pdb
+/Users/talashoveugene/Desktop/C#_ Lesson1/lesson_01/obj/Debug/net6.0/lesson_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/talashoveugene/Desktop/C#_ Lesson1/lesson_01/obj/Debug/net6.0/lesson_01.AssemblyInfoInputs.cache
+/Users/talashoveugene/Desktop/C#_ Lesson1/lesson_01/obj/Debug/net6.0/lesson_01.AssemblyInfo.cs
+/Users/talashoveugene/Desktop/C#_ Lesson1/lesson_01/obj/Debug/net6.0/lesson_01.csproj.CoreCompileInputs.cache
+/Users/talashoveugene/Desktop/C#_ Lesson1/lesson_01/obj/Debug/net6.0/lesson_01.dll
+/Users/talashoveugene/Desktop/C#_ Lesson1/lesson_01/obj/Debug/net6.0/refint/lesson_01.dll
+/Users/talashoveugene/Desktop/C#_ Lesson1/lesson_01/obj/Debug/net6.0/lesson_01.pdb
+/Users/talashoveugene/Desktop/C#_ Lesson1/lesson_01/obj/Debug/net6.0/lesson_01.genruntimeconfig.cache
+/Users/talashoveugene/Desktop/C#_ Lesson1/lesson_01/obj/Debug/net6.0/ref/lesson_01.dll
